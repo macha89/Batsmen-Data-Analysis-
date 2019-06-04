@@ -6,6 +6,6 @@ Modules used for scraping the data : requests, lxml.html and pandas.
 
 
 
-Modules used for manupulating the data : pandas, xlrd and datetime.
+Modules used for manipulating the data : pandas, xlrd and datetime.
 
 Source : Espncricinfo
